@@ -15,3 +15,14 @@ On day 3 of your Flutter learning journey, you likely covered some fundamental c
 You likely also started to implement these concepts in a practice app, creating functions, classes and using them in widgets, creating routes and navigating between them, applying a custom theme, and displaying text in the app using the Text widget.
 
 It's important to practice what you learned and continue to build on it by creating more complex apps that use these concepts in different ways.
+
+## Main Page Code
+
+We have made the Initial Route method to Home Page, that's why Home Page is reflected on Simulator and if off then because of Routes method will reflect Login Page on Simulator.
+
+<img width="1792" alt="Screenshot 2023-01-24 at 11 36 25 PM" src="https://user-images.githubusercontent.com/68659006/214379893-ea53e096-eb6a-4aa8-910b-8721627ddf9f.png">
+
+## Login Page Code
+
+<img width="1792" alt="Screenshot 2023-01-24 at 11 36 53 PM" src="https://user-images.githubusercontent.com/68659006/214379924-71323332-c5f3-4d8c-b0a5-4c1cbdb4c175.png">
+
