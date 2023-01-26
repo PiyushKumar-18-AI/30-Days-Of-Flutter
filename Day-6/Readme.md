@@ -15,5 +15,16 @@ Today, I updated the <b><i>Login Page</b></i> and during the updation I noticed 
 after that we used <i>Animated Container</i> instead of <i>Elevated Button</i> and made a few changes to the <b><i>Login Page</b></i> and we also added the <i>Future Delay</i> 
 feature and saw what this feature does.
 
+*******
+
 ## Updated Code of Login-Page
 
+### Updated to StateFul Widget and Added User's Name after Welcome.
+
+<img width="1792" alt="Screenshot 2023-01-26 at 11 22 45 PM" src="https://user-images.githubusercontent.com/68659006/214911943-bb272caf-0ece-4908-8f92-b4d4290a91ae.png">
+
+*******
+
+### Created an Animated Container for the Login Button and added Future Delay in the button also.
+
+<img width="1789" alt="Screenshot 2023-01-26 at 11 23 35 PM" src="https://user-images.githubusercontent.com/68659006/214912098-136972d9-d31f-413a-8118-5f37718a3518.png">
