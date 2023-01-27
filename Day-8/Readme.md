@@ -24,3 +24,19 @@ In short, Ink provides an interactive visual effect while Animated Container pro
 
 ## Code of Login Page after Updatedation
 
+* ### If Username and Password is not present then,
+
+<img width="1789" alt="Screenshot 2023-01-27 at 8 16 53 PM" src="https://user-images.githubusercontent.com/68659006/215117096-a106917f-5687-4e6c-a360-7b2fc32c7dcb.png">
+
+* ### If minimum length of Password is not 8 then,
+
+<img width="1789" alt="Screenshot 2023-01-27 at 8 17 39 PM" src="https://user-images.githubusercontent.com/68659006/215117114-e72b864a-b16f-43e0-bc96-734ca38e2c31.png">
+
+* ### Updated the Login Button
+
+https://user-images.githubusercontent.com/68659006/215117275-70642c85-ca8c-4064-ba9d-615fa437899c.mov
+
+
+
+
+
