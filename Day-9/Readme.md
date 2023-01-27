@@ -24,11 +24,19 @@ remote server, rather than being bundled with the app.
 On Day - 9 since we work on the Home Page we have edited <b>initial route</b> in the <b><i>main.dart</b></i>, from <b><i>"/"</b></i> to 
 <b><i>"MyRoutes.homeRoute"</b></i>.
   
-  
-## Added a new file named Widgets.dart under Widgets Folder
+ <img width="1235" alt="Screenshot 2023-01-27 at 10 14 56 PM" src="https://user-images.githubusercontent.com/68659006/215144298-1672d7fe-7d3a-4afd-8e6a-a1d2bd126547.png">
+
+## Code of new file named "drawer.dart" under Widgets Folder
+
+
+<img width="1789" alt="Screenshot 2023-01-27 at 10 14 34 PM" src="https://user-images.githubusercontent.com/68659006/215144522-eed5b0ce-2a16-478d-8f08-137d8533f73f.png">
 
 
 
 ## Updated Code in Home Page
+
+<img width="1230" alt="Screenshot 2023-01-27 at 10 14 46 PM" src="https://user-images.githubusercontent.com/68659006/215144566-88ad42be-3fe9-4470-99d1-e0ddda5f0961.png">
+
+
 
 
