@@ -26,5 +26,18 @@ There are several reasons why Flutter is a popular choice for mobile app develop
 
 Overall, Flutter's features and capabilities make it a popular choice for mobile app development because it allows developers to build high-performance, expressive, and visually attractive apps quickly and efficiently.
 
+*******
+
+Next Question is <b><i>How to Use this Repository?</b></i>
+
+So, for using this repository to learn from, I have added all the files that you just need to update in <b>"lib folder"</b> of the Flutter app you create 
+in your Local Machine and by using the days, you can follow this repository. 
+
+And for instance if you get stuck anywhere you can either <b>Ping Me</b> using the links given in <b>My Profile</b> or you can watch the videos of 
+<b><i> @Codepur </b></i> from where I have learnt and boost my Flutter Develoment Profile. 
+
+<b><i> Link for Playlist of Codepur Videos => </b></i> https://youtube.com/playlist?list=PLrjrqTcKCnhTXI2GyPkaQF47inLp6LoIC
+
+<b><i> GitHub Link of Pawan Kumar Creater of Codepur Videos => </b></i>https://github.com/iampawan
 
 <p align = "center"><img src = "https://user-images.githubusercontent.com/68659006/213881329-da73579f-e21e-4981-a2dd-9431a5ed4fbf.png" alt = "Dart & Flutter Logo"></p>
