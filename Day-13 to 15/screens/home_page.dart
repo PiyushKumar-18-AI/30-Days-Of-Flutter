@@ -9,6 +9,7 @@ class HomePage extends StatefulWidget {
   @override
   State<HomePage> createState() => _HomePageState();
 }
+
 class _HomePageState extends State<HomePage> {
   final int days = 30;
 
@@ -19,6 +20,7 @@ class _HomePageState extends State<HomePage> {
     super.initState();
     loadData();
   }
+  
   loadData() async {
     await Future.delayed(Duration(seconds: 2));
     final catalogJson =
@@ -30,6 +32,7 @@ class _HomePageState extends State<HomePage> {
         .toList();
     setState(() {});
   }
+  
   @override
   Widget build(BuildContext context) {
     return Scaffold(
