@@ -42,3 +42,18 @@ It also saves a lot of time and effort dealing with complex JSON data.
 
 * <b><i>Progress Indicator:</b></i> I likely learned how to add a progress indicator to my app, to indicate that something is loading or processing 
 in the background. ProgressIndicator is a widget provided by Flutter that shows a progress bar, spinning wheel, or other visual indication of progress.
+
+******
+
+## Code of Updated Home Page
+<img width="1789" alt="Screenshot 2023-01-31 at 3 07 30 AM" src="https://user-images.githubusercontent.com/68659006/215602981-7ef3ebc7-684d-45f4-a9dc-b09284ef9254.png">
+
+
+## Code of Updated Catalog.dart 
+<img width="1789" alt="Screenshot 2023-01-31 at 3 08 33 AM" src="https://user-images.githubusercontent.com/68659006/215602854-71edf3eb-f46f-4c77-a56c-9a380e6a7996.png">
+
+
+## Code of CircularProgressIndicator
+
+<img width="1789" alt="Screenshot 2023-01-31 at 3 08 16 AM" src="https://user-images.githubusercontent.com/68659006/215603001-33b6fe14-7b63-4325-b1e3-76750f2f1afb.png">
+
