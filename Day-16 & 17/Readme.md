@@ -11,6 +11,11 @@ way to display a grid item with a title and a leading widget.
 
 By using GridView and GridTile, you can easily create grid-based layouts in your Flutter app, which are a popular way of displaying items in a mobile app.
 
+## Home Page of App Updated on Day - 16
+<img width="1789" alt="Day-16" src="https://user-images.githubusercontent.com/68659006/217012350-5881e768-f8d5-40f7-b1eb-88886111585a.png">
+
+
+*****
 
 # Day-17
 
@@ -29,3 +34,10 @@ Some of the key features of <b><i>VelocityX </b></i>include:
 
 By using VelocityX, you can quickly and easily create visually appealing and responsive user interfaces in your Flutter app, without 
 having to write a lot of custom code.
+
+## Home Page of App Updated on Day - 17
+
+<img width="1789" alt="Screenshot 2023-02-06 at 8 54 59 PM" src="https://user-images.githubusercontent.com/68659006/217012395-de0c4b44-07db-4497-8473-f86bed4010a4.png">
+
+
+
