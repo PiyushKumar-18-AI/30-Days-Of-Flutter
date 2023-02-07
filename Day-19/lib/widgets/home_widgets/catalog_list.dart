@@ -2,9 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_tutorial/models/catalog.dart';
 import 'package:flutter_tutorial/screens/home_detail_page.dart';
 import 'package:velocity_x/velocity_x.dart';
-
 import 'package:flutter_tutorial/widgets/themes.dart';
-
 import 'catalog_image.dart';
 
 class CatalogList extends StatelessWidget {
